@@ -4,7 +4,7 @@ import About from './components/About';
 import RoleInterests from './components/RoleInterests';
 import Resume from './components/Resume';
 import Skills from './components/Skills';
-import Projects from './components/Projects';
+import Projects from './components/Project';
 import Footer from './components/Footer';
 
 const App = () => {
